@@ -1,0 +1,5 @@
+Poppins R 16 || semibold 18 / 20 || 1.125 1.25
+
+EB Garamond EB 72 / 40 / 32 / 24  || 4.5 2.5 2 1.5
+
+color #B68C5A
